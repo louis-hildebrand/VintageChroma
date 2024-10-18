@@ -6,10 +6,10 @@ import android.content.res.TypedArray;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.os.Build;
-import android.support.annotation.ColorInt;
-import android.support.v7.preference.PreferenceViewHolder;
+import androidx.annotation.ColorInt;
+import androidx.preference.PreferenceViewHolder;
 import android.util.AttributeSet;
-import android.support.v7.preference.Preference;
+import androidx.preference.Preference;
 import android.util.Log;
 import android.widget.ImageView;
 

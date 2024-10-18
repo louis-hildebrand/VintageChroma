@@ -1,6 +1,6 @@
 package com.pavelsikun.vintagechroma;
 
-import android.support.annotation.ColorInt;
+import androidx.annotation.ColorInt;
 
 /**
  * Created by Pavel Sikun on 28.03.16.

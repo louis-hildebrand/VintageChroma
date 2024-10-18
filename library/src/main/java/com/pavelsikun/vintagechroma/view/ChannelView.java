@@ -1,7 +1,7 @@
 package com.pavelsikun.vintagechroma.view;
 
 import android.content.Context;
-import android.support.annotation.ColorInt;
+import androidx.annotation.ColorInt;
 import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;

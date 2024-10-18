@@ -2,8 +2,8 @@ package com.pavelsikun.vintagechroma;
 
 import android.app.Dialog;
 import android.content.Context;
-import android.support.annotation.ColorInt;
-import android.support.v7.app.AlertDialog;
+import androidx.annotation.ColorInt;
+import androidx.appcompat.app.AlertDialog;
 
 import com.pavelsikun.vintagechroma.colormode.ColorMode;
 import com.pavelsikun.vintagechroma.view.ChromaView;

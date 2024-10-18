@@ -2,7 +2,7 @@ package com.pavelsikun.vintagechroma.view;
 
 import android.content.Context;
 import android.graphics.Color;
-import android.support.annotation.ColorInt;
+import androidx.annotation.ColorInt;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
