@@ -35,5 +35,5 @@ ext {
     PUBLISH_VERSION = '1.5'
 }
 
-apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
+apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/383d380ea547c3902b4bca921efa09ecee9f6dbf/android-release-aar.gradle'
 // ./gradlew clean build generateRelease
